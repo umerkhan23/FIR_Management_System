@@ -40,7 +40,6 @@ void exit()
     delay ();
     cout<<"\n\n\n\t\t\t\t\t**TAKING OUT  OF THE SYSTEM";
     system("cls");
-    cout<<"\n\n\n\n\n\n\t\t\t\t\t STAY SECURE AND SAY NO TO CRIME";
     cout<<"\n\n\n\t\t\t\t\t\t\t\t   PEACE IN THE COUNTRY IS PEACE IN THE WORLD";
     cout<<"\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t*YOU ARE OUT*";
     cout<<"\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t THANK YOU";
